@@ -1,0 +1,23 @@
+{
+  "name": "cpu-scheduling-visualizer",
+  "version": "1.0.0",
+  "description": "Simulate and visualize CPU scheduling algorithms with metrics and Gantt charts.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "NODE_ENV=development node server.js"
+  },
+  "keywords": [
+    "cpu",
+    "scheduling",
+    "visualizer",
+    "express",
+    "d3"
+  ],
+  "author": "You",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
