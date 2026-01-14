@@ -1,13 +1,13 @@
 # CPU Scheduling Visualizer
 
-A **CPU Scheduling Visualizer* *that helps understand and compare different CPU scheduling algorithms through interactive visualization and performance metrics.
+A *CPU Scheduling Visualizer *that helps understand and compare different CPU scheduling algorithms through interactive visualization and performance metrics.
 
 ---
 
 ## Features
 - Visualizes execution of processes on CPU
 - Supports multiple CPU scheduling algorithms
-- Displays **Gantt Chart**
+- Displays *Gantt Chart*
 - Calculates:
   - Waiting Time
   - Turnaround Time
@@ -27,11 +27,10 @@ A **CPU Scheduling Visualizer* *that helps understand and compare different CPU 
 ---
 
 ## Technologies Used
-- Programming Language: Python / JavaScript (edit as needed)
-- Frontend: HTML, CSS, JavaScript (if applicable)
-- Backend: Python (Flask/Django) *(if applicable)*
+- Programming Language: JavaScript 
+- Frontend: HTML, CSS, JavaScript 
 - Libraries:
-  - Matplotlib / Tkinter / React / Chart.js *(edit based on your project)*
+  -React
 
 ---
 
